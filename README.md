@@ -1,5 +1,7 @@
 # expense_tracker
 
+A simple expense tracker built using PySimpleGUI and matplotlib.
+
 ![home](https://user-images.githubusercontent.com/82932051/199224875-16ed84ac-57e9-4b8c-a2be-4898398f6ff0.png)
 ![error](https://user-images.githubusercontent.com/82932051/199224944-37bb09e3-82c3-4525-b5b2-27941fd8dc88.png)
 ![not_valid](https://user-images.githubusercontent.com/82932051/199225178-7fb04dd5-a4db-4eb4-892d-a47340016fce.png)
