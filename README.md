@@ -1,4 +1,4 @@
-# Expense_Tracker
+# Expense Tracker
 
 A simple expense tracker built using PySimpleGUI and matplotlib.
 
