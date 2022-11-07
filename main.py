@@ -108,3 +108,5 @@ while True:
 
         else:
             graph.expense_distribution_year_month(int(year_month[1]), int(year_month[0]))
+
+            
