@@ -73,8 +73,8 @@ while True:
                 #     temp = False
                 #     break
 
-        if (values[0] == '' or values[1] == '') and values[1] in range(1, 13): 
-            sg.popup('Please enter a year and a month.', title='ERROR')
+        if (values[0] == '' or values[1] == '') or  values[1] not in range(1, 13): 
+            sg.popup('Please enter valid year and month.', title='ERROR')
             temp = False
         if temp:
             csv_handler.add_record(b)
