@@ -73,7 +73,7 @@ while True:
                 #     temp = False
                 #     break
 
-        if values[0] == '' or values[1] == '': 
+        if (values[0] == '' or values[1] == '') and values[1] in range(1, 13): 
             sg.popup('Please enter a year and a month.', title='ERROR')
             temp = False
         if temp:
